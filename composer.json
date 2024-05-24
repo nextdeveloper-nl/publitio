@@ -1,7 +1,7 @@
 {
-    "name": "publitio/publitio",
+    "name": "nextdeveloper/publitio",
     "description": "PHP language interface for the Publitio RESTful API",
-    "keywords": ["publitio"],
+    "keywords": ["nextdeveloper","publitio"],
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
     },
