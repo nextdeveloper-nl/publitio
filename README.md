@@ -1,3 +1,8 @@
+# Our Release and why we forked;
+ℹ️ We created this library to be able to use it with composer and maintain the library to support various Laravel versions.
+
+Original documentation is as below;
+
 # Publitio PHP SDK
 
 PHP SDK for Publitio API. This SDK works with PHP version 5.5 and up.
